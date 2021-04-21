@@ -37,21 +37,23 @@ class Navbar extends React.Component {
           >
             <div className="navbar-start">
               <Link to="/" className="navbar-item">
-                Inicio
-              </Link>
-              <Link to="/nosotros" className="navbar-item">
-                Nosotros
-              </Link>
-              <Link to="/" className="navbar-item">
-              <img src={'media/logo_escuela_estadistas.jpeg'}/>
-              
-              </Link>
-              <Link to="/nosotros" className="navbar-item">
-                Eventos
+   
+                  <p>Inicio</p>
+
               </Link>
 
               <Link to="/nosotros" className="navbar-item">
-                Contacto
+                <p className="optiones-navbar">Nosotros</p>
+              </Link>
+              <Link to="/" className="navbar-item">
+                <img src={"media/logo_escuela_estadistas.jpeg"} />
+              </Link>
+              <Link to="/nosotros" className="navbar-item">
+                <p className="optiones-navbar">Eventos</p>
+              </Link>
+
+              <Link to="/nosotros" className="navbar-item">
+                <p className="optiones-navbar">Contacto</p>
               </Link>
             </div>
           </div>
