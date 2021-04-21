@@ -27,7 +27,7 @@ class InicioContent extends React.Component {
                     <hr className="divider" />
                     <p class="subtitle is-6">
                       <b>
-                        Aquí va una description de la escuela bla bla bla bla
+                        Aquí va una descripción de la escuela bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
@@ -37,7 +37,7 @@ class InicioContent extends React.Component {
                     </p>
                     <p class="subtitle is-6">
                       <b>
-                        Aquí va una description de la escuela bla bla bla bla
+                        Aquí va una descripción de la escuela bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
@@ -47,7 +47,7 @@ class InicioContent extends React.Component {
                     </p>
                     <p class="subtitle is-6">
                       <b>
-                        Aquí va una description de la escuela bla bla bla bla
+                        Aquí va una descripción de la escuela bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
                         bla bla bla bla bla bla bla bla bla bla bla bla bla bla
